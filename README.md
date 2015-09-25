@@ -11,3 +11,5 @@ Tools and strategies for organizing work:
 * comments in files.
 * pulling out hair
 
+##Question for Mickey:
+What is your favorite scyphozoan? (I know there are many--just pick one favorite.) 
